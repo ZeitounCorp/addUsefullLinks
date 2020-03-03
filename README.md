@@ -9,6 +9,14 @@ Bash script to stay organised with the links you want to save for any of your pr
 First of all, I figured out that my browser was full charged with tabs, most of them were opened for something like 4 months, I didn't want to lose them so I ended up opening more & more tabs.
 
 I finally created this tool and bring it to you
+
+## Installation
+
+* Download addUsefullLinks.sh
+* Place it inside your ```bin``` folder
+*```mv addUsefullLinks.sh ./addUsefullLinks```
+*```chmod u+x ./addUsefullLinks```
+
 ## ENJOY 😉 
 
 Made by @Zcorp with 🖤
