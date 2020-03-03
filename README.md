@@ -14,8 +14,8 @@ I finally created this tool and bring it to you
 
 * Download addUsefullLinks.sh
 * Place it inside your ```bin``` folder
-*```mv addUsefullLinks.sh ./addUsefullLinks```
-*```chmod u+x ./addUsefullLinks```
+* ```mv addUsefullLinks.sh ./addUsefullLinks```
+* ```chmod u+x ./addUsefullLinks```
 
 ## ENJOY 😉 
 
